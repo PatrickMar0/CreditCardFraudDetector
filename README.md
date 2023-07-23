@@ -26,4 +26,11 @@ Code Files
 <li>NN.py: Applies a neural network to the Kaggle data, displaying precision and recall on test samples</li>
 <li>DT.py: Applies a decision tree to the Kaggle data, displaying accuracy and precision on test samples</li>
 </ul>
+
+Authors:
+<ul>
+<li>Patrick Marino and William Davidson</li>
+</ul>
+Kaggle Source: https://www.kaggle.com/datasets/whenamancodes/fraud-detection?resource=download
+
 </ul>
